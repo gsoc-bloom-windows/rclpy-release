@@ -1,4 +1,0 @@
-Source: ros-dashing-rclpy
-Version: 0.7.4
-Description: Package containing the Python client.
-Build-Depends:
